@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "unpkg",
+      "library": "bootstrap@4.2.1",
+      "destination": "wwwroot/bootstrap/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "font-awesome@4.6.3",
+      "destination": "wwwroot/font-awesome/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "font-awesome@4.7.0",
+      "destination": "DatingApp-SPA/font-awesome/"
+    }
+  ]
+}
